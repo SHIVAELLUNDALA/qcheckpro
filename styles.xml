@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.QCheckPro" parent="android:Theme.Material.NoTitleBar">
+        <item name="android:windowBackground">@color/colorPrimary</item>
+        <item name="android:statusBarColor">@color/colorPrimary</item>
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
+    </style>
+
+    <style name="Theme.QCheckPro.Launcher" parent="Theme.QCheckPro">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+</resources>
