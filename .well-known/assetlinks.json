@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.secore.qcheckpro",
-    "sha256_cert_fingerprints": ["85:A6:0B:99:65:34:79:FC:C1:91:4E:0E:70:B6:1A:CC:94:FF:0C:DF:DF:6B:B8:46:CB:9D:92:48:A7:4A:C0:42"]
+    "sha256_cert_fingerprints": ["12:2E:B0:F9:04:7B:BD:0A:A1:75:26:A4:B3:85:4E:02:5B:10:C9:5D:BC:E1:83:19:4E:8C:FD:C9:FB:0C:DC:A7"]
   }
 }]
